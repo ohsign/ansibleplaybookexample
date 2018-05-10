@@ -1,0 +1,2 @@
+# ansibleplaybookexample
+ansible code practice
